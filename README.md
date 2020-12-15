@@ -48,4 +48,4 @@ This analysis has shown that the response to the question Who is being left out 
 However, despite the differences in the results obtained by each metric, there is one group that is constantly shown as having the worse quality and accessibility: the outskirts of the city. Future public policies should focus on these areas.
 
 ## License
-This repository is licensed under [MIT License](LICENSE)
+This repository is licensed under [MIT License](LICENSE).
