@@ -1,3 +1,5 @@
+<span style="display:block;text-align:center">![Test Automation](images/mean_distance_small.png)</span>
+
 # Who is being left out by public transport?
 **An analysis of accessibility and public transport quality in Santiago, Chile**  
 
