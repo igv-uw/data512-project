@@ -43,6 +43,9 @@ it shows consistently that the outskirts of the city are the most underserved.
 | stops.txt      | stop_lat   | Latitude  | WGS84 latitude in decimal degrees                                           |
 | stops.txt      | stop_lon   | Longitude | WGS84 longitude in decimal degrees                                          |
 
+## Conclusion
+This analysis has shown that the response to the question Who is being left out by public transport? depends on what we understand by being left out. If we consider left out as having a high distance to the nearest bus stop, we see that the outskirts of the city, especially the east-side are the most underserved. If we know consider left out as having a low number of buses or routes passing through the nearest stops, then the only areas well-served are the ones near main roads.
+However, despite the differences in the results obtained by each metric, there is one group that is constantly shown as having the worse quality and accessibility: the outskirts of the city. Future public policies should focus on these areas.
 
 ## License
 This repository is licensed under [MIT License](LICENSE)
